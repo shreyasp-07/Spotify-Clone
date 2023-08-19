@@ -1,6 +1,3 @@
-Sure, here's a README.md file for your Spotify Clone website created using HTML, CSS, and JS:
-
-```markdown
 # Spotify Clone Website
 
 ![Preview](preview.png)
