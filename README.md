@@ -30,7 +30,7 @@ You can see the live demo of the Spotify Clone Website [here](https://your-demo-
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/shreyasp-07/spotify-clone.git
 ```
 
 2. Navigate to the project directory:
@@ -63,10 +63,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to use this README template and modify it according to your project. Have fun experimenting and customizing your Spotify Clone website!
-```
-
-Replace `your-username` with your GitHub username and update the demo link, repository link, and other placeholders accordingly. You can also include a preview image (`preview.png`) to showcase a screenshot of your project.
-
-This README.md template provides a basic structure for your project's documentation. Feel free to add more details or sections based on the specific features and aspects of your Spotify Clone website.
