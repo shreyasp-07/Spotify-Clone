@@ -11,7 +11,6 @@ This project is a simple Spotify Clone website built using HTML, CSS, and JavaSc
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
